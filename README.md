@@ -1,6 +1,6 @@
 # Identifying the musical instrument from its Spectrograph Images - MATHWORKS Music Project.
 
-Every Musical intrument have a specific pattern in thier respective spectrograph images. Using this images, a deep neural network can be developed which can identify to which Instrument the spectrograph belongs.
+This Repository is a part of Deep Learning Course by MATHWORKS. Every Musical intrument have a specific pattern in thier respective spectrograph images. Using this images, a deep neural network can be developed which can identify to which Instrument the spectrograph belongs.
 
 The Network has been trained to detect 14 instruments 
 1) Bells
